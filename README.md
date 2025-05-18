@@ -90,3 +90,5 @@ Após executar o script, Leo irá pedir para você se identificar. Digite `usar 
 
 *Exemplos de Interação:*
 
+![Demonstração da Interação com Leo no Terminal](video_leo_chatbot.gif)
+
